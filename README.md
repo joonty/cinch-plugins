@@ -41,6 +41,10 @@ This repository currently provides the following plugins:
 
 * **LinkTitle:** print out the title of any link posted in the channel
 
+* **TeamTime:** the user asks every other user in the channel whether they want a drink
+
+* **Bitbucket:** a slowly growing toolset relating to bitbucket (currently only pull requests)
+
 Some plugins have configuration, so check each plugin for the description.
 
 License
