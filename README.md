@@ -5,6 +5,11 @@ This repository contains several plugins for the
 [Cinch](https://github.com/cinchrb/cinch) framework, which allows
 for the easy creation of IRC bots (in ruby).
 
+A quick note
+------------
+
+I have plans to make these plugins more generic, by adding documentation and configuration, but I thought it was best to start by just putting up what I use. Hopefully it will still be useful for some.
+
 Usage
 -----
 
